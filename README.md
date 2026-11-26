@@ -52,6 +52,7 @@ sports/muscle share spikes at night in four city schedules.
 | `data/gta6_area_traffic_mix.csv` | per named area: coordinates, governing schedule, mix |
 | `data/gta6_traffic_zones_geometry.csv` | the raw zone polygons |
 | `METHOD.md` | how the files were found and the formats decoded |
+| `EVIDENCE.md` | what backs each claim, and what is not proven |
 
 ### JSON shape
 
@@ -76,6 +77,9 @@ World coordinates span x −11135…3884, y −8646…10066. North is up; one un
   they cover, so they are numbered rather than named.
 - Everything here is read out of the shipped data. Nothing is inferred from gameplay or from
   outside sources.
+
+[EVIDENCE.md](EVIDENCE.md) sets out what backs each claim — including the check that every one of
+the 1,644 schedule columns sums to exactly 100 — and is explicit about what is still unproven.
 
 ## Licence and ownership
 
