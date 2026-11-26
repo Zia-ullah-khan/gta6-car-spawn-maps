@@ -1,0 +1,252 @@
+model,topSpeed,accel0_20,accel0_60,brake60_0,turnRadius,latG,estTopSpeed,qtrTime,road,has_fixed_spawn,fixed_spawn_areas,fixed_spawn_desc
+lazer,115.961731,0.566,1.8,0.0,0.0,0.0,0.0,inf,0,0,,
+thrax,76.582466,0.733,2.433,16.762213,4.146139,2.158186,77.380417,10.035963,1,1,,"Custom Truffade Thrax belonging to Andrew Node, found at his luxury residence on Starfish Island."
+emerus,72.298279,0.8,2.917,17.129642,4.567493,2.224227,73.669731,10.494824,1,1,kellycounty,"Custom, race-spec Progen Emerus with a unique livery. Discovered in a garage in Capri. | Race-spec Progen Emerus found in a shipping container in Port Vice City, modded to bolster its performance. | Custom Progen Emerus with a unique blood-red design. Found parked at the home of a drug lord on Rialto Islands. | Modified Progen Emerus with a honeycomb design, found at Dolos Exotic Car Rental."
+pulsebike,71.794044,1.183,4.133,17.71582,3.808143,1.510814,76.789322,11.671639,1,0,,
+vitello,71.409531,0.7,2.75,18.819826,4.524777,2.083041,72.841782,10.248607,1,1,,"Unique Pegassi Vitello with a custom finish, discovered at Dante Fresh's mansion on Starfish Island. | Pegassi Vitello with a flamboyant custom design. Discovered at Dolos Exotic Car Rental. | Paint-sprayed Pegassi Vitello discovered outside a similarly-decorated home in Capri."
+tempesta,70.978455,0.717,2.783,17.83399,4.28052,2.01689,68.956398,11.177544,1,1,tequesta,"Eye-catching Pegassi Tempesta, discovered outside a restaurant in Ocean Beach. | Unique Pegassi Tempesta, found at a VCPD recruitment drive in Vice Beach. | Pegassi Tempesta with a distinctive custom livery. Found outside a hotel in Tequesta Retreat."
+gauntlet4,69.468315,0.983,3.316,20.956066,4.431129,1.712199,70.427521,11.132816,1,0,,
+furia,69.16256,0.917,2.784,19.368898,4.255121,2.063767,70.194023,10.622165,1,1,,"Striking leopard print Piccia Furia, discovered at a luxury residence on Starfish Island."
+comet7,68.152061,0.85,3.117,19.486334,3.788316,1.988268,69.846169,10.908442,1,0,,
+valkyrie,67.733978,1.767,4.983,0.0,0.0,0.0,0.0,0.0,0,0,,
+italirsx,67.725662,0.533,2.6,18.090092,4.175411,2.083266,68.259193,10.731716,1,1,crosstown,
+buzzard,66.94886,2.467,7.234,0.0,0.0,0.0,0.0,0.0,0,0,,
+zorrusso,66.737206,0.917,3.517,18.2356,4.411359,1.918987,68.202438,11.203668,1,1,,"One-of-a-kind Granforma Zorrusso modified to racing specifications, found at a luxury residence in Peacock Estates."
+mallard,64.335556,2.917,0.734,0.0,0.0,0.0,0.0,inf,0,1,gellhorn;grassrivers,"One-of-a-kind Lapwing Mallard with custom flame decals, found at an airport in Bobcat Key. | Lapwing Mallard used by Kyle McKittrick for dusting his crops. Found at his farm in Frogswater. | Custom Lapwing Mallard with a gleaming silver finish. Found in a hangar at Wild Hog Point."
+infernus2,64.182297,1.033,3.933,20.087162,4.263604,1.885203,65.416992,11.847359,1,0,,
+neon,64.019096,0.8,3.016,20.947269,4.678648,1.906362,65.151588,11.652433,1,0,,
+coquette4,63.859478,0.933,3.683,19.297373,4.297381,1.858488,64.81739,11.548502,1,1,stockyard,
+mambagt,62.643219,0.95,3.95,23.633305,3.319138,1.78248,64.165947,12.066158,1,0,,
+sfb1000,61.877094,1.1,3.416,17.48048,1.837815,2.130167,65.265373,10.696165,1,0,,
+raiden,61.767471,1.233,3.766,22.577394,4.814066,1.666778,62.792278,11.357592,1,0,,
+schutzen,61.626598,0.884,3.967,21.837654,5.226037,1.811647,62.578423,12.112453,1,1,,Benefactor Schutzen owned by Vice City rapper DWNPLY. Found outside a Pay 'n' Spray in Stockyard.
+cheetah2,61.008846,1.733,5.633,21.355719,4.530738,1.834815,61.982334,13.802035,1,0,,
+vstr,60.983288,1.066,3.95,23.092775,4.208072,1.532356,64.320908,11.981184,1,0,,
+jugular,60.978989,0.767,3.683,21.263433,4.425862,1.799833,61.94054,11.823699,1,1,,Race-ready Ocelot Jugular found at a wealthy residence in Belville.
+vigero3,60.954315,1.016,4.583,21.615973,4.049552,1.752202,61.973495,12.556605,1,1,keylento,
+alvinov1,60.208839,1.216,3.7,18.692392,1.755328,2.078503,63.890263,11.088642,1,0,,
+cypher,59.969135,1.117,4.067,22.026863,3.685896,1.53687,61.53627,11.994266,1,1,bayside;crosstown,"Unique Übermacht Cypher modded for street racing with an exposed engine. Discovered in a garage in Crosstown. | Übermacht Cypher found in a shipping container in Port Gellhorn. Comes with custom track-racing mods and a distinctive livery. | One-off Übermacht Cypher with a vibrant, pop art-inspired design. Found in a parking garage in Bayside."
+jet2,59.242336,4.067,9.017,0.0,0.0,0.0,0.0,inf,0,0,,
+paragon,58.896595,0.683,3.966,20.322268,4.484443,1.899169,59.410992,11.977359,1,1,waningsands,Ascot Paragon with a striking rose gold finish. Discovered outside a huge property in Waning Sands.
+dominator9,58.865086,0.933,4.717,20.886976,4.079952,1.739225,59.817814,12.527741,1,0,,
+buffalo6,58.640469,1.117,4.15,22.186525,4.360667,1.545659,54.543198,13.168102,1,0,,
+carbonizzare,58.589069,0.934,3.934,20.095221,4.123306,1.806521,60.036137,12.083568,1,0,,
+carbonrs,58.33812,1.316,4.05,19.131596,1.98546,2.052935,62.283607,11.246119,1,0,,
+cometretro,57.929192,1.017,4.55,21.51343,3.684329,1.798638,59.282005,13.142907,1,1,capri,
+coquette,57.644577,0.967,4.467,21.265141,4.194688,1.686063,58.539139,12.551626,1,1,,"Promotional Invetero Coquette, found on display outside the police HQ in Capri. | Invetero Coquette found in the aftermath of a Key Lento house party. Comes with a unique custom finish. | Invetero Coquette customized by Raul for style and speed. Found at a marina in Ocean Beach"
+banshee,57.62236,1.15,5.35,20.966066,4.036238,1.836629,58.179417,13.266331,1,1,hamlet,"Unusual Bravado Banshee, lifted and reinforced for dirt track racing by an Emma Gary. Discovered in a junkyard in Hamlet."
+toros,57.21246,0.683,4.05,22.666264,4.74446,1.598579,58.057659,12.214358,1,1,leaflinks,"Luxury Pegassi Toros discovered at a residence in Rialto Islands. Unmistakable, thanks to its golden finish."
+lectro,57.033237,1.267,4.7,17.964611,1.850323,2.04399,60.739616,11.761663,1,1,,"Bespoke Principe Lectro with a custom livery and racing mods, discovered at Emilio's Auto Center in Rockridge."
+nimbus,56.978619,3.267,7.067,0.0,0.0,0.0,0.0,inf,0,1,,Lapwing Nimbus owned by adult entertainment company Booty Bang. Found in a hangar at VCIA.
+polmav,56.782246,2.0,5.334,0.0,0.0,0.0,0.0,0.0,0,0,,
+double,56.711502,1.084,3.767,18.848148,1.897762,1.95524,59.987892,10.998532,1,1,laperle,
+windsor2,56.615864,0.983,4.65,21.593754,4.851233,1.495096,58.343552,12.456944,1,0,,
+schafter3,56.390091,0.916,4.433,21.258303,4.649658,1.824831,57.749962,12.817813,1,0,,
+coquette2,55.920815,1.717,6.05,27.354006,3.987588,1.223869,57.301735,14.10364,1,1,crosstown,
+pmp700,55.566689,1.116,4.9,23.960207,4.558962,1.489647,56.846939,13.078827,1,0,,
+dominator7,55.208584,1.1,5.35,23.918459,3.604135,1.5514,56.053638,13.43676,1,1,ambrosia;kellycounty;rockridge,
+crake,54.93885,2.567,6.05,0.0,0.0,0.0,0.0,0.0,0,0,,
+dominator,54.564579,1.15,5.733,24.004396,4.359529,1.474298,55.258537,13.706661,1,1,,"Vapid Dominator ASP optimized for racing with a patriotic paint job. Discovered at Ambrosia Raceway Park. | Vapid Dominator found at Gellhorn International Raceway. Customized for track racing with an iridescent finish. | Vapid Dominator with a custom paint job, modded to racing specifications. Found in a parking garage in Rockridge. | '65 Vapid Dominator with modern upgrades and a matte finish. D"
+fcr,54.554569,1.116,4.533,22.751955,1.991432,1.688413,57.559963,11.692345,1,1,airport,"Übermacht FCR 1000, modified with a classic aviation vibe. Found at a flight school by VCIA. | Übermacht FCR 1000 with an unusual gold frame and extra-thick tires. Discovered in a lockup at VCIA."
+intruder,53.882477,1.134,5.95,24.91748,4.179947,1.354403,54.680305,13.915288,1,0,,
+stallion,53.626308,1.316,5.583,26.862795,4.255795,1.252207,54.809452,14.158794,1,1,waningsands,"Converted '68 Classique Stallion, found in a garage in Waning Sands. Modified with an exposed engine and supercharger. | '68 Classique Stallion modded for the roughest demolition races. Discovered in a garage near Mount Kalaga. | '68 Classique Stallion with a unique, eye-catching makeover. Found in a garage near Ambrosia."
+fr36,53.321182,1.183,5.733,23.105719,4.252772,1.472083,53.44038,14.042237,1,0,,
+hermes,53.320618,1.333,5.783,27.35767,5.138855,1.353258,54.796139,13.544129,1,1,,'50 Albany Hermes with custom flame decals. Discovered in a shipping container on Draper Island.
+gauntlet5,53.220531,2.117,7.034,27.041998,4.335183,1.304918,53.648216,15.189397,1,1,ambrosia;grayson,
+baller8,53.188087,1.233,5.466,23.744146,4.928757,1.5246,53.656963,13.083408,1,1,washingtonbeach,
+drafter,53.048054,0.867,4.65,22.283693,4.206372,1.679173,53.536621,12.850533,1,0,,
+astron,53.04784,0.834,4.5,21.30714,4.385636,1.693072,53.270245,12.926873,1,1,,Pfister Astron with hot pink accents. Discovered in a garage at a house in Belville.
+penumbra,52.950325,1.433,6.683,24.230715,4.080637,1.494944,53.78651,14.059955,1,1,capri,"Maibatsu Penumbra with hot pink accents and underglow. Found in a hotel parking lot in Capri. | Track-ready Maibatsu Penumbra with a custom finish, discovered at Ambrosia Raceway."
+growler,52.811684,1.416,5.85,22.292238,4.429539,1.920949,54.201462,13.553724,1,1,,"Sleek Pfister Growler, modded for racing. Discovered in a parking garage in Ocean Beach."
+vectre,52.802631,1.016,4.733,22.152836,3.846974,1.594783,56.039536,13.028098,1,0,,
+esskey,52.737995,1.533,5.767,21.650888,1.719198,1.751963,55.888988,12.56776,1,1,southside,"Unusually rugged Principe Esskey, specially modded for off-roading with extra-thick tires. Found at a Southside convenience store."
+elegy,52.42503,1.1,5.266,21.933357,3.81476,1.654992,55.09293,13.157578,1,1,kellycounty,"Iridescent '90 Annis Elegy prepped for racing, found behind some condos in Ocean Beach. | '90 Annis Elegy specially modified for drifting, discovered in a garage at Gellhorn International Raceway."
+swift,52.168701,2.95,8.0,0.0,0.0,0.0,0.0,0.0,0,0,,
+baller2,52.157352,1.133,5.533,23.452396,4.874158,1.540336,52.486355,13.442927,1,1,belville,
+buffalo,52.148987,1.366,6.766,23.763432,4.412857,1.493587,53.012646,14.616854,1,0,,
+jubilee,51.775875,1.084,5.7,22.036144,5.153658,1.472574,53.897606,13.491323,1,1,leaflinks,"Luxurious Buckingham Jubilee, lifted and modified with thicker tires. Found at a wealthy home in Rialto Islands. | Luxuriously appointed Buckingham Jubilee, found by a megamansion in Leaf Links."
+penumbraff,51.732609,1.4,6.833,25.011963,3.941832,1.628022,52.308182,14.377544,1,1,ambrosia,
+picador,51.668262,2.0,7.6,26.888674,4.264609,1.281803,52.102314,15.407297,1,1,ambrosia;frogswater,"'72 Declasse Picador painted with a psychedelic design, found at a farm in Frogswater. | Custom lowrider made from a '72 Declasse Picador, discovered in a parking garage in Ocean Beach. | Reinforced '72 Declasse Picador adapted for racing. Discovered in a barn in South Kelly County. | Hot rod built out of a '72 Declasse Picador, with custom flame decals and mods. Found at an old trainyard in North"
+sovereign107,51.349518,1.517,5.6,24.198248,2.395385,1.508458,51.299961,14.010612,1,1,grassrivers;kellycounty,
+montagne,51.316471,1.117,6.15,25.116457,4.655835,1.45036,44.92347,15.750392,1,0,,
+deviant,51.267536,1.834,6.4,25.324955,4.495154,1.32969,52.305367,14.820304,1,0,,
+dominatorclassic,51.244461,1.284,5.7,26.399418,4.119144,1.28123,52.37019,14.254419,1,1,bayside,
+maverick,51.030834,1.733,7.7,0.0,0.0,0.0,0.0,0.0,0,1,,"Uncommon Buckingham Maverick, found on a rooftop in Crosstown."
+supervolito,50.986637,2.783,5.883,0.0,0.0,0.0,0.0,0.0,0,1,tequesta,"One-off Buckingham Supervolito with a custom design, found on the roof of Neo Paloma apartments in Tequesta."
+chavosxs,50.984535,1.583,7.05,23.077883,4.221823,1.520721,53.031876,14.114052,1,0,,
+jet,50.825947,3.85,7.717,0.0,0.0,0.0,0.0,inf,0,0,,
+sugoi,50.820461,1.367,6.317,23.481689,4.217968,1.580386,51.737469,14.0162,1,0,,
+feroci,50.796593,1.133,6.666,25.171391,4.190509,1.381744,51.913639,14.511552,1,0,,
+lowline,50.448112,1.1,6.35,23.972416,4.541936,1.581992,50.629326,14.289169,1,0,,
+bfinjection4,50.375668,1.184,5.65,24.301268,3.493046,1.388392,51.742481,13.654485,1,0,,
+dominatorbuggy,50.349312,1.25,5.566,26.491461,3.686718,1.254917,51.752739,13.547949,1,0,,
+schafters,49.929218,1.1,6.2,22.760744,4.324495,1.451218,50.651772,14.163514,1,1,tequesta,
+sultan,49.842903,1.15,5.617,22.932131,3.838407,1.544352,51.299961,13.505286,1,0,,
+tailgater2,49.805523,1.116,5.916,23.009281,4.128788,1.601128,50.220589,13.812067,1,0,,
+zion2,49.769531,1.234,6.784,23.921146,4.075332,1.439985,50.17382,14.580247,1,1,belville,
+cavalcade3,49.357365,1.034,6.017,36.086697,4.526755,1.343898,49.774967,13.98912,1,1,downtown;peacockbay,
+tulip,49.230045,2.25,7.5,26.425053,4.231024,1.224197,51.81052,15.464255,1,1,,"'72 Declasse Tulip converted into a dazzling pink donk, found at a San4San garage in La Perle."
+arcturus,49.178246,1.467,8.083,26.455564,4.611628,1.283665,49.883377,15.230982,1,0,,
+willard,49.155552,1.6,7.833,31.893684,4.128449,0.414157,50.034031,14.866033,1,1,,"'92 Willard Grouse converted for demolition races, found in a garage in Ambrosia. | '92 Willard Grouse given a new lease of life in demolition derbies. Found modified and reinforced at a gas station in Moreau."
+reblagts,49.08609,1.2,5.884,22.550541,4.780973,1.541353,49.448891,13.958653,1,0,,
+lasso,48.942432,1.683,8.25,25.455324,4.449525,1.40729,49.780209,15.337544,1,0,,
+ganado,48.908783,1.267,6.567,25.844971,3.968677,1.281219,49.873627,14.684642,1,1,,Modded '70 Vapid Ganado with a distinctive livery and exposed air filters. Found at a residence near Capri.
+sentinelclassic2,48.804737,1.483,7.916,26.058596,3.792879,1.393231,49.41674,15.358985,1,0,,
+animus,48.557022,1.167,6.05,23.371096,4.403045,1.53709,48.959671,14.193697,1,0,,
+meritlx,48.395882,1.6,7.333,25.231689,4.374441,1.40443,48.971333,14.736929,1,0,,
+volatus,48.170883,3.017,7.667,0.0,0.0,0.0,0.0,0.0,0,1,airport;downtown,"One-of-a-kind Buckingham Volatus with a distinctive ocean camo finish, found in a VCIA hangar. | Unique Buckingham Volatus with a pearlescent finish, found atop New Quay Plaza in Downtown."
+ruiner,47.918991,1.45,8.417001,25.977297,3.944904,1.377134,48.612331,15.763498,1,1,keylento,"'82 Imponte Ruiner, customized with an exposed supercharger and oversize rear wheels. Found in a Key Lento yard."
+vivanite,47.869476,2.367,9.35,24.444824,5.173511,1.403832,48.353848,16.396118,1,0,,
+blista2,47.846626,1.75,8.583,26.942871,4.285847,1.433112,48.428226,15.611962,1,1,portgellhorn,
+impaler5,47.721561,1.584,7.75,24.410646,4.631246,1.336741,48.268089,15.509762,1,0,,
+stanierg2,47.687836,1.65,8.367001,104.383659,4.480299,1.403808,48.266518,15.668295,1,0,,
+contender,47.684258,0.933,6.35,103.532646,5.632236,0.988481,48.1064,14.339993,1,0,,
+stanier,47.654362,1.733,8.717,26.557127,4.458291,1.347625,48.200726,15.815872,1,1,,"Donk built out of a '98 Vapid Stanier, with XL wheels and a pearlescent finish. Found outside a store in La Perle."
+transgressor,47.610325,1.3,7.433001,27.571775,4.37499,1.240769,48.028809,15.080848,1,0,,
+riata,47.470238,1.234,6.084,25.862551,5.056817,1.421404,47.927368,14.089459,1,0,,
+minivan,47.457027,1.784,9.35,26.748047,4.861471,1.308469,48.212193,15.447126,1,0,,
+mesa,47.23888,1.283,6.7,26.129395,4.640213,1.311029,47.687004,14.542754,1,0,,
+devanity,47.125374,1.516,8.383,29.312763,4.980087,1.208733,47.943455,15.885921,1,0,,
+gresleyxt,46.890827,1.016,6.266,24.034912,4.739078,1.513859,47.297382,14.329226,1,0,,
+yosemite1500,46.876575,1.6,8.666,26.687508,5.220427,1.391732,47.227329,15.915767,1,1,portgellhorn,
+vamos,46.866642,2.317,8.583,26.526859,4.24582,1.223062,47.712536,16.877785,1,1,,Rusted '74 Declasse Vamos once owned by outlaws Martha and Lyle. Found in an abandoned shed in Bonanza.
+aleutian,46.76292,1.116,7.083,24.196045,4.955028,1.467397,47.069237,15.047859,1,0,,
+asterope2,46.644245,1.866,9.200001,26.165773,4.152896,1.334654,47.761959,15.967196,1,0,,
+cliffhanger,46.330772,1.166,6.183,33.454056,1.919896,1.33822,51.151802,13.929512,1,1,gellhorn,"'72 Western Cliffhanger with a unique finish, found outside a waterfront shack in Watson Bay. | '72 Western Cliffhanger, modded for speed with a brushed metal finish. Found in a shipping container in Breakwater Quarry."
+akane,46.198017,2.067,8.267,27.828613,3.951928,1.409376,46.937366,15.154901,1,1,keylento,
+futo,46.174408,2.017,8.984,40.987743,3.580576,1.348999,46.78606,15.890613,1,1,,Heavily modded '85 Karin Futo with thick tires and extra lights. Found in a shipping container in Port Gellhorn.
+greta,46.095791,2.05,8.617001,24.104496,4.004394,1.483284,46.751656,15.583698,1,0,,
+phoenix,46.088959,1.483,8.033,27.91382,4.11167,1.250914,47.112499,15.570163,1,1,watsonbay,"'77 Imponte Phoenix found at an illegal chop shop in Salton. Comes with a custom design and supercharger. | '77 Imponte Phoenix, modified with a large supercharger and a custom finish. Discovered in a Watson Bay garage."
+bobcatxl,45.946072,1.75,8.400001,29.826172,5.793819,1.26955,46.36211,15.652784,1,1,capri,
+caracara4x4,45.868752,1.35,7.650001,43.097054,5.88567,0.413715,46.262699,14.938949,1,1,ambrosia;capri;portgellhorn,
+landstalker2,45.86359,1.834,8.05,25.084967,5.196161,1.418576,47.46582,14.898912,1,0,,
+buccaneer,45.800327,2.2,8.267,28.635008,4.390857,1.236973,46.605515,16.59017,1,0,,
+xls,45.746323,1.1,7.150001,24.705566,4.918666,1.477703,47.444977,14.692513,1,0,,
+cargobob,45.702366,3.55,11.616,0.0,0.0,0.0,0.0,0.0,0,0,,
+bison,45.694477,1.75,8.583,23.589115,5.292681,1.375137,46.08548,15.752805,1,1,,"Extra-rugged Bravado Bison 1800, modified for extreme cross-country pursuits. Found at a highway patrol station in Moreau."
+bogan,45.318863,2.034,10.434001,36.846508,3.991719,0.33695,46.200645,16.64679,1,0,,
+bison900,45.253662,1.416,8.533,27.68091,4.719134,1.205704,47.237835,15.449033,1,1,grassrivers,
+impaler6,44.991089,1.933,8.8,27.484381,4.60259,1.245849,45.712845,16.73531,1,0,,
+zombieb,44.816067,1.167,7.467,28.179201,2.294285,1.55599,47.990299,14.695979,1,1,ambrosia;lummoxcounty;washingtonbeach,
+reclaimer,44.785225,1.333,7.083,26.176031,5.165893,1.299413,46.694603,14.45752,1,0,,
+bison1800,44.69054,1.5,8.0,26.280033,5.356945,1.267422,45.145393,15.548625,1,0,,
+granger3600lx,44.688618,1.417,8.85,25.418703,5.002041,1.383744,44.763233,16.015354,1,0,,
+grouse,44.593285,2.167,10.733001,27.038578,4.170512,1.279408,45.428097,17.163193,1,0,,
+dubsta,44.530155,1.25,7.183001,36.673779,4.36746,0.467441,49.8344,14.388066,1,1,,"Heavily customized Benefactor Dubsta with a rich gold finish. Found at a wealthy residence on Starfish Island. | Opulent Benefactor Dubsta with a head-turning red and gold design. Found in a garage at a large property in Leaf Links. | Imposing, high-end Benefactor Dubsta discovered at a luxury residence on Starfish Island."
+nightblade2,44.221512,1.017,6.117,26.675053,2.467782,1.604499,47.52549,13.789647,1,0,,
+primo,44.101521,2.134,9.684,27.688232,4.515363,1.262468,45.106133,16.588539,1,0,,
+chino,43.938293,1.867,8.517,28.024416,4.884252,1.224321,44.591225,16.451773,1,1,,Custom '65 Dundreary Chino found at a luxury resort by Lake Tallaloko. Modified for privacy and protection.
+wymankitcar,43.276512,2.05,9.183001,32.155273,3.469883,1.153108,57.958584,13.001165,1,0,,
+rebel,43.194881,1.45,8.967,41.653011,4.570018,1.355399,43.579823,16.159494,1,1,,"'84 Karin Rebel with a distinctive DIY paint job, found in a garage near Port Gellhorn. Customized specifically for demolition events. | '84 Karin Rebel reinforced to withstand more punishment, discovered by a trailer in Ambrosia."
+stanier55,43.122246,2.317,10.767,30.005859,4.901033,1.203253,43.990993,17.265839,1,0,,
+bison4,43.055653,1.933,8.767,29.452654,5.028172,1.161779,43.485508,16.499224,1,0,,
+montagnexl,42.997578,1.95,11.216001,41.497143,4.333036,1.328146,43.29528,17.248775,1,0,,
+kamacho,42.909973,2.0,8.933001,42.146358,5.974701,1.246286,43.235149,15.565442,1,1,,"Striking Canis Kamacho, customized by La Polilla Negra and found at a remote property in Watson Bay."
+woodland,42.81881,2.617,10.433001,27.993898,4.156182,1.314942,43.870628,17.898724,1,1,keylento,
+dorado,42.759697,1.917,11.217001,38.291309,4.446992,0.388338,43.103378,17.53042,1,1,,"Custom Bravado Dorado with a unique roof livery, discovered at a car wash in Ambrosia."
+manana,42.487106,2.133,9.866,27.97217,4.87677,1.214343,43.177818,17.465868,1,1,,Classic lowrider found at a crime scene in Ocean Beach. Built out of a '77 Albany Manana.
+manchez,42.424831,1.3,6.65,22.595264,1.707553,1.605692,44.279968,13.985092,1,1,kellycounty,"Race-ready Maibatsu Manchez with a distinctly Leonidan color scheme, found at a gas station in South Kelly County."
+tulip2,42.411003,2.267,9.933001,28.931643,4.269809,1.182308,43.065022,17.310337,1,0,,
+enduro,42.237728,1.267,6.717,22.190956,1.692502,1.637386,44.279968,14.052299,1,1,grassrivers,'72 Dinka Enduro with a unique retro design. Found in a shipping container near Mount Kalaga.
+allander,42.121723,1.767,9.284,31.353016,4.14442,0.42936,42.456184,16.110394,1,0,,
+granger,42.067478,1.55,10.133,36.972683,5.505719,1.363643,42.358398,16.713316,1,0,,
+yosemite,42.064545,2.233,9.966001,26.964842,4.652448,1.282147,42.721149,17.683739,1,1,,'67 Declasse Yosemite with off-roading modifications. Found outside a residence in Watson Bay.
+shifter,41.901409,1.45,9.967,38.028675,5.750091,0.395647,42.39994,16.441984,1,0,,
+sandking_4dr,41.852333,1.2,8.75,26.250252,6.429856,0.260089,42.210392,16.274765,1,0,,
+sungrazer,41.776184,1.917,9.984,45.96946,4.596067,1.234139,42.346622,17.496241,1,1,capri,"Lovingly restored '61 Sirius Sungrazer with an elegant custom finish. Found outside an antique store in Capri. | Well-preserved '61 Sirius Sungrazer with a custom finish, discovered at a residence bordering a factory expansion in Ambrosia."
+bison3800,41.61441,1.617,9.384001,27.5,6.389947,0.311088,41.699142,16.659409,1,0,,
+sandkingxt,41.509239,1.217,8.833,25.904297,6.581375,0.808256,41.874886,16.301929,1,0,,
+parkland,41.073063,2.35,10.334001,108.881668,5.173007,1.225061,41.66864,18.034458,1,1,,'71 Declasse Parkland with a DIY paint job inspired by a paranormal documentary. Found at a residence in Capri.
+sanchez,40.804581,1.4,7.066,22.377966,1.575173,1.679559,44.279968,13.844454,1,1,grassrivers;leonardcounty,Maibatsu Sanchez with a Capri City Jackals livery. Discovered at a motocross track in Waning Sands. | Custom Maibatsu Sanchez modded for performance. Formerly belonged to a murder victim found in Waning Sands. | Unique Maibatsu Sanchez found outside a house on the Grayson coast. Race-ready with a distinctive livery. | One-off Maibatsu Sanchez specially modded for racing. Found by a residence at Wi
+speedo,40.422939,1.9,11.6,29.880615,5.624055,1.202666,40.925446,17.477711,1,0,,
+burrito,40.343437,1.633,11.717001,45.265301,5.886858,1.225429,40.834312,17.181633,1,0,,
+bandito,40.196136,1.217,5.934,29.251471,3.563276,1.339579,41.939968,13.67845,1,1,gellhorn;hamlet,"Heavily customized '77 BF Bandito with massive rear tires and extra thrust. Found in a container in a Hamlet junkyard. | '77 BF Bandito sponsored by Patriot Beer. Found outside a home at Wild Hog Point. | '77 BF Bandito, customized for superior off-roading. Discovered at Boone Speedway."
+patriot3,39.940014,2.167,12.734,46.992691,5.209093,1.145765,33.446156,21.668261,1,0,,
+outlaw,39.88467,1.3,4.867,26.872076,3.621566,1.372087,40.301926,14.027386,1,1,,Unique Mer-Can Outlaw found in a garage in Port Gellhorn. Comes with a custom livery.
+emperor,39.726875,1.75,12.667001,45.277809,4.592041,1.097984,40.305569,18.575274,1,1,,"Unique lowrider built out of an '85 Albany Emperor, found down an alleyway in Stockyard."
+marshall,39.715637,1.667,9.85,31.015869,4.92275,1.101403,40.129356,16.677454,1,1,portgellhorn,"One-off Vapid Marshall with a vibrant custom livery, discovered in a barn in Mount Kalaga National Park."
+slamvan,38.726856,2.133,13.200001,29.861576,4.692903,1.143799,39.362514,18.380447,1,1,,"'56 Vapid Slamvan with a prominent supercharger and unique finish, found at a marina in Watson Bay."
+walton,38.567482,1.583,11.533001,43.575211,4.351971,1.33696,43.346184,17.108009,1,1,,"Donk made from an '81 Declasse Walton with a pearlescent finish and gold trim, discovered in a Rockridge parking lot. | '81 Declasse Walton with a ghoulish appearance. Found behind a house in Grayson. | Striking '81 Declasse Walton covered in Haitian folk art. Discovered at a gas station in La Perle."
+wastelander,38.455608,1.216,10.333,116.498199,6.457958,1.25399,38.806339,17.104065,1,0,,
+rancher,38.392273,2.2,13.433001,42.520794,4.340435,1.128448,38.703568,18.506596,1,1,,"Modified '86 Declasse Rancher with a patriotic design, discovered in a Port Gellhorn lockup. | Unique '86 Declasse Rancher with a trippy paint job, discovered in a barn near Kalaga Reservoir."
+hustler,38.351265,2.416,16.35,44.340683,4.802527,1.228841,38.90517,19.261707,1,1,keylento,Iconic American hot rod that began life as a '32 Vapid Hustler. Discovered at a beachfront hotel in Capri.
+hellion,38.314434,1.617,12.617001,42.883362,4.5816,1.167064,38.617325,17.892607,1,0,,
+montagnepu,37.71349,1.483,9.55,24.792971,5.126489,1.413784,41.388165,16.308935,1,0,,
+declasse500,37.313522,2.783,16.217001,42.773876,6.114814,0.33126,37.930126,19.509268,1,1,leonardcounty,
+youga2,37.058258,2.8,16.300001,50.264961,5.352197,0.390758,37.469421,19.652697,1,1,watsonbay,
+shuttle,36.62154,2.2,13.55,30.165907,5.09934,0.34386,36.948696,18.431534,1,0,,
+tiptruck,36.133305,2.483,15.550001,49.560482,6.858354,0.288593,36.693775,19.512428,1,0,,
+riataclassic,35.562607,2.133,16.800001,47.54554,3.737494,1.431351,35.850903,19.564669,1,0,,
+ambulance2,35.416702,2.684,17.150002,42.699528,7.424911,0.271102,35.848259,20.260624,1,0,,
+taco,35.257793,2.834,16.550001,49.789909,9.095977,0.276128,35.893631,20.025949,1,0,,
+blazer4,35.213531,1.4,7.45,22.58497,2.080804,1.774047,36.26997,14.579212,1,1,watsonbay,
+crawler,35.124565,2.283,15.933001,45.559547,4.204855,1.428972,35.37933,18.585867,1,1,,Custom '82 Canis Crawler owned by podcaster Nancy Buchanan. Found in the garage at her residence in Moreau.
+yougaxl,35.075176,2.033,14.066001,43.567715,5.05954,1.144793,39.028065,18.48004,1,1,keylento;millport,
+verus,35.048378,1.65,9.650001,22.690928,2.207592,1.351287,35.729965,15.757395,1,1,,"Attention-grabbing Dinka Verus, lifted with XL wheels. Discovered in a shipping container in Rockridge."
+rumpo,34.920513,1.667,12.1,28.742432,5.85723,0.39278,39.566792,17.325926,1,0,,
+boxville,34.502331,2.567,14.883,46.983986,6.217878,0.338309,34.878395,19.32489,1,1,grassrivers,
+towtruck,34.129528,2.617,20.750002,42.343174,6.610224,0.220857,34.086926,21.312489,1,0,,
+ambulance,33.711945,1.85,14.883,112.830154,7.276606,0.322892,37.999763,19.508091,1,0,,
+mule,33.562218,2.916,24.816002,50.930088,5.965455,0.286435,34.89526,21.329863,1,0,,
+riot,33.503674,2.984,22.000002,49.814518,7.539005,0.211464,32.580315,21.183527,1,0,,
+guardiantx2,33.498772,2.9,20.484001,52.454498,8.472698,0.275144,34.317326,20.745966,1,0,,
+stockade,33.370079,3.1,25.383001,51.10413,7.581663,0.253215,32.358177,23.089884,1,0,,
+reclaimerclassic,33.296452,2.634,16.167,49.664497,5.118134,1.177241,34.755268,19.867479,1,0,,
+nimbe,33.123932,2.434,15.217001,47.840374,1.633045,1.420055,34.832771,17.765247,1,0,,
+moocher,33.072369,3.667,25.300001,53.961319,8.676729,0.244452,33.564568,22.917252,1,0,,
+ragno,33.026928,2.35,14.384001,40.125488,1.79142,1.538424,34.734394,17.522892,1,0,,
+rubble,32.387241,2.016,22.166,45.603127,10.96883,0.149526,32.522022,20.972815,1,0,,
+rentalbus,31.931807,2.433,15.983001,115.639992,7.090383,0.257079,35.46928,20.145504,1,0,,
+trotter,31.846369,3.416,25.300001,57.727959,8.718167,0.193672,32.47271,22.212601,1,0,,
+benson,30.835138,3.583,28.266001,55.857471,9.050683,0.20303,32.713551,21.897541,1,0,,
+iota,30.762541,2.583,23.35,48.958054,5.826585,0.301025,34.679493,20.419909,1,0,,
+spritz,30.729258,2.783,21.800001,36.415352,6.304706,0.234856,31.756729,20.463068,1,0,,
+bus2_frag,30.507189,4.167,37.650002,49.279877,10.597965,0.140435,31.063732,23.932619,1,0,,
+packer,29.635881,3.4,25.6,58.888096,9.075179,0.225088,34.24781,21.872955,1,0,,
+hauler,29.260109,3.666,35.383003,66.003403,6.750121,0.261062,29.736942,23.01886,1,0,,
+bus2,28.765827,3.966,31.200001,51.07901,10.647015,0.160371,29.80121,22.898037,1,0,,
+firetruk2,28.753288,2.717,22.800001,55.157524,7.237892,0.308751,33.289482,21.696442,1,0,,
+bus2_dmg,28.704922,4.217,34.884003,47.87104,10.600043,0.173665,31.050764,22.344923,1,0,,
+blast,28.543417,1.767,12.450001,37.229328,3.388006,1.27684,29.142654,17.784458,1,0,,
+aphid,28.523636,1.633,12.950001,40.769005,1.478342,1.65354,30.08812,17.550121,1,0,,
+phantom3,28.421339,2.683,37.0,46.207333,9.914,0.231775,29.001415,22.855419,1,1,ambrosia,
+mb210,28.218349,3.15,34.716003,41.898869,9.834649,0.171629,27.395908,23.123455,1,0,,
+journey,27.567665,2.85,20.900002,53.697708,5.556283,0.229378,33.051392,21.689209,1,1,watsonbay,Well-used '78 Osprey Journey showing signs of sexual adventure. Found at an RV park in Watson Bay. | Unique '78 Osprey Journey with a lot of miles on the clock. Found at the residence of Antigone Robertson in Watson Bay.
+biff,27.296906,3.55,34.517002,62.397343,9.757816,0.185448,30.613857,22.149773,1,0,,
+shamal,26.606934,3.266,6.833,0.0,0.0,0.0,0.0,inf,0,1,,Buckingham Shamal covered in branding for legendary rockers Love Fist. Discovered in a hangar at VCIA.
+coach,26.580242,3.916,33.850002,39.121101,9.770963,0.989796,29.401491,23.60854,1,0,,
+airbus,26.469957,3.783,0.0,51.390209,11.296629,0.130884,30.092571,23.139683,1,0,,
+swamp,26.075401,2.767,0.0,0.0,7.481559,1.459512,26.63998,18.775126,0,1,,Nagasaki Sea Sparrow helicopter with a unique swamp-themed color scheme. Found at a dock in Buckskin Swamp.
+dzy200,24.875328,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0,0,,
+brigade,24.506746,3.217,0.0,42.19854,8.135221,0.230246,24.765165,24.389795,1,0,,
+apc,22.704256,3.35,0.0,0.0,7.421062,0.0,24.735041,24.829628,0,0,,
+216cstreamer,21.406477,4.933,0.083,0.0,0.0,0.0,0.0,inf,0,0,,
+duster,18.631252,5.983,1.817,0.0,0.0,0.0,0.0,inf,0,1,frogswater,One-of-a-kind Bottcher Duster with a unique livery. Discovered at an airstrip in North Kelly County.
+ridgway,18.381527,5.417,0.0,0.0,5.497196,1.471781,19.411337,30.183804,0,0,,
+caddy,17.63706,3.25,0.0,0.0,3.495819,1.294599,17.999983,25.240255,0,1,,"Unique Maibatsu Caddy with a jungle camo finish, decorated with American flags. Found by a hut in Buckskin Swamp. | Maibatsu Caddy resembling a lowrider, with a custom finish and swangaz. Found outside a home in Dwindle Wood. | Custom Maibatsu Caddy towing colorful helium balloons, discovered outside a bargain store in Port Gellhorn. | One-off Maibatsu Caddy with a flashy gold finish. Discovered a"
+caddy2,17.630848,3.6,0.0,0.0,3.346885,1.310076,17.999983,25.659481,0,1,portgellhorn,
+mammatus,17.004145,6.684,0.0,0.0,0.0,0.0,0.0,inf,0,1,,Head-turning Lapwing Mammatus with a custom design and plush interior. Found in a hangar in Grassrivers.
+duster2,16.850357,6.05,9.450001,0.0,0.0,0.0,0.0,inf,0,0,,
+golfcarthotrod,16.091131,3.367,0.0,0.0,3.856411,1.304441,16.457546,27.142712,0,1,waningsands,
+rhino,14.78168,6.75,0.0,0.0,0.809974,0.0,14.958921,33.111374,0,0,,
+eboost,13.234075,3.7,0.0,0.0,1.227928,1.009698,13.998066,32.438519,0,0,,
+furrowtc2350,12.932979,8.183001,0.0,0.0,8.400991,0.0,17.281,30.807484,0,0,,
+dump,11.807221,11.116,0.0,0.0,12.837834,0.0,14.697618,36.724583,0,0,,
+telehandler,11.522952,6.817,0.0,0.0,5.931427,0.0,16.917006,32.5714,0,0,,
+tractor2,11.075701,8.417001,0.0,0.0,7.846273,0.0,16.113995,30.297945,0,0,,
+dzy80,10.911759,3.817,0.0,0.0,0.0,0.0,0.0,0.0,0,0,,
+ripley,10.270731,13.250001,0.0,0.0,5.006286,0.0,10.484991,43.511066,0,0,,
+airtug,9.958308,8.684,0.0,0.0,2.147193,0.0,10.169992,43.447876,0,0,,
+bulldozer,7.551056,0.0,0.0,0.0,1.194582,0.0,7.649993,53.771702,0,0,,
+digger,6.317719,0.0,0.0,0.0,1.944422,0.0,6.382328,65.232361,0,0,,
+forklift,5.138273,0.0,0.0,0.0,2.610795,0.0,5.278842,77.384789,0,0,,
+mobilityscooter,4.44053,0.0,0.0,0.0,2.009622,0.0,4.837186,85.744568,0,0,,
+wheelchair,3.740287,0.0,0.0,0.0,1.088676,0.0,3.779996,106.884621,0,0,,
+crane,3.414898,0.0,0.0,0.0,8.753422,0.0,6.244181,66.885002,0,0,,
+bmx,0.0,0.0,0.0,0.0,0.0,0.0,0.192273,2092.541748,0,1,,"Tuff BMX with a unique gold paint job. Found behind a payday loans store in Little Cuba. | Tuff BMX, formerly owned by a wannabe stunt rider. Found by an abandoned pool in Hamlet."
+cruiser,0.0,0.0,0.0,0.0,0.0,0.0,0.192273,2092.54248,0,0,,
+crusher,0.0,0.0,0.0,0.0,0.0,0.0,0.192273,2092.541016,0,0,,
+erode,0.0,0.0,0.0,0.0,0.0,0.0,0.192273,2092.54248,0,1,portgellhorn,Custom Del Perro Erode with a sparkling blue paint job. Found in the back of a store in Port Gellhorn. | One-of-a-kind Del Perro Erode. Found hanging from a bizarre wooden figure in the forest near Bonanza.
+lombike,0.0,0.0,0.0,0.0,0.0,0.0,0.192273,2092.54248,0,0,,
+scorcher,0.0,0.0,0.0,0.0,0.0,0.0,0.192273,2092.540283,0,1,portgellhorn,"Del Perro Scorcher with a striking purple finish, discovered outside a Port Gellhorn convenience store."
+tribike,0.0,0.0,0.0,0.0,0.0,0.0,0.212727,1891.338989,0,0,,

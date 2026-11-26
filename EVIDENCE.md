@@ -140,6 +140,32 @@ they are the reason to trust the place-to-schedule join:
 - `region_frogswater`, in the swamp, is 54% pickups and 30% off-road.
 - `trucks` and `utility` sit at exactly 0% in the night slots and appear only by day.
 
+## Vehicle performance and fixed spawns
+
+This part needed no reverse engineering at all — both sources ship as plain XML.
+
+`CVehiclePerformanceMaps` (`common.rpf` payload `0x612000`) gives 251 vehicles with `topSpeed`,
+`accelZeroTwenty`, `accelZeroSixty`, `brakingSixtyZero`, `turnRadius` and `maxGforceLateral`.
+`CVehicleBaseRatingsAndEstimatesMap` (payload `0x616000`) is a second, independent file with
+road and offroad estimates for 231 of them. **The two agree on the ordering** — `thrax` is first
+in both, followed by the same group — which is the main reason to trust either.
+
+**Road-capable is derived, not assumed.** Aircraft and boats have `brakingSixtyZero` and
+`turnRadius` of exactly 0 in the performance file, so the 203 road vehicles separate out of the
+data rather than from a hand-written list. `lazer` (the jet), `valkyrie` and `buzzard` fall out
+correctly.
+
+**Spawn locations are quoted, not paraphrased.** They are the game's own description strings,
+matched to internal model names. The matching has a real failure mode: a first pass that looked
+for the model name anywhere in the text attached a bird description — *"a small wading bird…
+the double black bands around its breast"* — to the model `double`. The rule was tightened to
+require the model name to appear **capitalised**, as a proper name, plus an exclusion list for
+wildlife and weapon descriptions. That dropped 76 non-vehicle strings and left 138 descriptions
+across 78 models. Anything surprising in that column is still worth a spot-check.
+
+Areas come from `GRID_SML_L_VEH_<model>_UNIQUE_<area>_…` tokens in the progress dataset (158
+unique-vehicle catalog entries), matched against the gazetteer.
+
 ## What is NOT proven
 
 - **Schedule names are hashed.** Exactly one was ever recovered, `rialto_islands_region_14`. A zone
@@ -156,5 +182,12 @@ they are the reason to trust the place-to-schedule join:
   unconfirmed.
 - **The 12 slots have no stated clock hours.** Describing slots as "night" or "day" is read off the
   pattern in the data, not taken from the file.
+- **`topSpeed` units are inferred.** The field is unlabelled. The values behave like metres per
+  second (76.6 for the fastest hypercar is 276 km/h), so the km/h figures are `× 3.6`. The
+  *ordering* does not depend on this.
+- **Spawn descriptions give a place in words, not coordinates.** Exact parking spots would need
+  the `VEHICLEGEN_OVERVIEW_FILE` named in the content manifest, which is not decoded here.
+- **Story availability is not modelled.** A vehicle existing at a spot does not mean it is
+  reachable at that point in a playthrough.
 - Hash cracking has a false-positive floor. Any single match from a very large candidate space is
   probabilistic. Where that matters it is flagged above rather than presented as settled.

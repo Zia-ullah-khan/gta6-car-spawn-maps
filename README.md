@@ -42,6 +42,23 @@ contains it, which is how zone priority works.
 about half after the first three slots, `trucks` and `utility` sit at 0% at night, and the
 sports/muscle share spikes at night in four city schedules.
 
+## Fastest vehicles, and where a fixed one sits
+
+The same dump also carries per-vehicle performance as plain XML. Joined to the game's own
+descriptions of unique parked vehicles, that gives a pick-up list with no traffic-spawn luck
+involved — see [VEHICLES.md](VEHICLES.md).
+
+| # | Model | km/h | 0–60 | Where the game says it is |
+|---|---|---|---|---|
+| 1 | `thrax` | 276 | 2.43 | Andrew Node's luxury residence, **Starfish Island** |
+| 2 | `emerus` | 260 | 2.92 | a garage in **Capri** |
+| 3 | `vitello` | 257 | 2.75 | Dante Fresh's mansion, **Starfish Island** |
+| 4 | `tempesta` | 256 | 2.78 | outside a restaurant in **Ocean Beach** |
+| 5 | `furia` | 249 | 2.78 | a luxury residence, **Starfish Island** |
+
+Three of the top five sit on Starfish Island, which makes it the single most valuable stop on the
+map. `thrax` is the fastest vehicle in the game that is not an aircraft.
+
 ## Files
 
 | Path | What it is |
@@ -51,6 +68,8 @@ sports/muscle share spikes at night in four city schedules.
 | `data/gta6_traffic_schedules.csv` | all 137 schedules × category × 12 slots |
 | `data/gta6_area_traffic_mix.csv` | per named area: coordinates, governing schedule, mix |
 | `data/gta6_traffic_zones_geometry.csv` | the raw zone polygons |
+| `VEHICLES.md` | fastest vehicles, and where a fixed one spawns |
+| `data/gta6_vehicle_performance.csv` | top speed, 0–60, braking and turn radius for 251 vehicles |
 | `METHOD.md` | how the files were found and the formats decoded |
 | `EVIDENCE.md` | what backs each claim, and what is not proven |
 
